@@ -1,0 +1,6 @@
+{
+  "name": "AI Interview Preparation Assistant",
+  "description": "An elite AI-powered mock interview platform that parses resumes, conducts real-time speech-to-text mock interviews, grades responses, and generates deep performance analytics.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
